@@ -1,2 +1,2 @@
 # Java-XOR-Encryper
-An encryption exercise using XOR log door
+An encryption exercise using XOR logical door
